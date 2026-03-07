@@ -9,7 +9,7 @@
         </style>
     </head>
     <body>
-        <div style="width:100%;height:100%;max-width:100%">
+        <div style="width:250%;height:250%;max-width:250%">
             <div id="game"></div>
         </div>
         <script>
