@@ -57,7 +57,7 @@
                 const gameHtml = `
                     <html>
                         <head>
-                            <title>Mario Kart 64 - Fullscreen</title>
+                            <title>Classroom - Loading</title>
                             <style>
                                 body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #000; }
                                 #game { width: 100vw; height: 100vh; }
